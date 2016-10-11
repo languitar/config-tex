@@ -1,5 +1,4 @@
 $pdf_mode = 1;
-$pdflatex = 'pdflatex -interaction=nonstopmode';
 
 use File::Slurp;
 
